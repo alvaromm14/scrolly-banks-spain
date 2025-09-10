@@ -14,22 +14,22 @@ export default [
               { name: "Luxemburgo", value: 22 },
               { name: "Polonia", value: 26 },
               { name: "Portugal", value: 643 },
-              { name: "Reino Unido", value: 35 }
-            ]
+              { name: "R. Unido", value: 35 },
+            ],
           },
           {
             name: "España",
             children: [
-              { name: "España", value: 4919 }
-            ]
+              { name: "España", value: 4919 },
+            ],
           },
           {
             name: "África",
             children: [
-              { name: "Marruecos", value: 7 }
-            ]
-          }
-        ]
+              { name: "Marruecos", value: 7 },
+            ],
+          },
+        ],
       },
       {
         name: "Santander",
@@ -39,8 +39,8 @@ export default [
             children: [
               { name: "Argentina", value: 665 },
               { name: "Brasil", value: 2422 },
-              { name: "Chile", value: 629 }
-            ]
+              { name: "Chile", value: 629 },
+            ],
           },
           {
             name: "Europa",
@@ -48,31 +48,31 @@ export default [
               { name: "DCB Europe", value: 642 },
               { name: "Polonia", value: 800 },
               { name: "Portugal", value: 1001 },
-              { name: "Reino Unido", value: 1306 },
-              { name: "Otros Europa", value: -225 }
-            ]
+              { name: "R. Unido", value: 1306 },
+              { name: "Otros Europa", value: -225 },
+            ],
           },
           {
             name: "España",
             children: [
-              { name: "España", value: 3762 }
-            ]
+              { name: "España", value: 3762 },
+            ],
           },
           {
             name: "Norteamérica",
             children: [
               { name: "EE.UU.", value: 1109 },
               { name: "México", value: 1671 },
-              { name: "Otros Norteamérica", value: -201 }
-            ]
+              { name: "Otros Norteamérica", value: -201 },
+            ],
           },
           {
             name: "Otros",
             children: [
-              { name: "Centro corporativo y ajustes", value: -1154 }
-            ]
-          }
-        ]
+              { name: "Centro corporativo y ajustes", value: -1154 },
+            ],
+          },
+        ],
       },
       {
         name: "BBVA",
@@ -81,34 +81,34 @@ export default [
             name: "Otros",
             children: [
               { name: "Centro corporativo y ajustes", value: -924 },
-              { name: "Otros", value: 500 }
-            ]
+              { name: "Otros", value: 500 },
+            ],
           },
           {
             name: "España",
             children: [
-              { name: "España", value: 3784 }
-            ]
+              { name: "España", value: 3784 },
+            ],
           },
           {
             name: "Norteamérica",
             children: [
-              { name: "México", value: 5447 }
-            ]
+              { name: "México", value: 5447 },
+            ],
           },
           {
             name: "Sudamérica",
             children: [
-              { name: "Resto Sudamérica", value: 635 }
-            ]
+              { name: "Resto Sudamérica", value: 635 },
+            ],
           },
           {
             name: "Oriente Próximo",
             children: [
-              { name: "Turquía", value: 611 }
-            ]
-          }
-        ]
+              { name: "Turquía", value: 611 },
+            ],
+          },
+        ],
       },
       {
         name: "Sabadell",
@@ -116,37 +116,37 @@ export default [
           {
             name: "España",
             children: [
-              { name: "España", value: 1316 }
-            ]
+              { name: "España", value: 1316 },
+            ],
           },
           {
             name: "Norteamérica",
             children: [
               { name: "EE.UU.", value: 131 },
-              { name: "México", value: 59 }
-            ]
+              { name: "México", value: 59 },
+            ],
           },
           {
             name: "Europa",
             children: [
               { name: "Francia", value: 30 },
               { name: "Portugal", value: 3 },
-              { name: "Reino Unido", value: 287 }
-            ]
+              { name: "R. Unido", value: 287 },
+            ],
           },
           {
             name: "África",
             children: [
-              { name: "Marruecos", value: 2 }
-            ]
+              { name: "Marruecos", value: 2 },
+            ],
           },
           {
             name: "Otros",
             children: [
-              { name: "Otros", value: 2 }
-            ]
-          }
-        ]
+              { name: "Otros", value: 2 },
+            ],
+          },
+        ],
       },
       {
         name: "Abanca",
@@ -154,22 +154,22 @@ export default [
           {
             name: "España",
             children: [
-              { name: "España", value: 1138 }
-            ]
+              { name: "España", value: 1138 },
+            ],
           },
           {
             name: "Europa",
             children: [
-              { name: "Portugal", value: 53 }
-            ]
+              { name: "Portugal", value: 53 },
+            ],
           },
           {
             name: "Otros",
             children: [
-              { name: "Otros", value: 10 }
-            ]
-          }
-        ]
+              { name: "Otros", value: 10 },
+            ],
+          },
+        ],
       },
       {
         name: "Bankinter",
@@ -177,18 +177,18 @@ export default [
           {
             name: "España",
             children: [
-              { name: "España", value: 774 }
-            ]
+              { name: "España", value: 774 },
+            ],
           },
           {
             name: "Europa",
             children: [
               { name: "Irlanda", value: 35 },
               { name: "Luxemburgo", value: 9 },
-              { name: "Portugal", value: 135 }
-            ]
-          }
-        ]
+              { name: "Portugal", value: 135 },
+            ],
+          },
+        ],
       },
       {
         name: "Unicaja",
@@ -196,10 +196,10 @@ export default [
           {
             name: "España",
             children: [
-              { name: "España", value: 573 }
-            ]
-          }
-        ]
+              { name: "España", value: 573 },
+            ],
+          },
+        ],
       },
       {
         name: "Kutxabank",
@@ -207,10 +207,10 @@ export default [
           {
             name: "España",
             children: [
-              { name: "España", value: 536 }
-            ]
-          }
-        ]
+              { name: "España", value: 536 },
+            ],
+          },
+        ],
       },
       {
         name: "Ibercaja",
@@ -218,10 +218,10 @@ export default [
           {
             name: "España",
             children: [
-              { name: "España", value: 337 }
-            ]
-          }
-        ]
+              { name: "España", value: 337 },
+            ],
+          },
+        ],
       },
       {
         name: "Cajamar",
@@ -229,11 +229,11 @@ export default [
           {
             name: "España",
             children: [
-              { name: "España", value: 326 }
-            ]
-          }
-        ]
-      }
-    ]
-  }
+              { name: "España", value: 326 },
+            ],
+          },
+        ],
+      },
+    ],
+  },
 ];
